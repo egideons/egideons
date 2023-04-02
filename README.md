@@ -8,9 +8,7 @@
 - My Name is Chukwuoma Gideon Chimemerie 😎
 - I am a Flutter Developer
 - 🔭 I’m currently working on a Flutter project for [Edura](https://github.com/Edura-ng)
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on flutter projects
+- 👯 I’m looking to collaborate on Flutter projects
 - 💬 Ask me about anything
-- 📫 Reach me here: [Email](mailto:egideonchuks@gmail.com)
-- 😄 Pronouns: I choose not to specify
+- 📫 Contact me through my [Email](mailto:egideonchuks@gmail.com)
 - ⚡ Fun fact: I am a Christian.....Not a fun fact but a fact. 
