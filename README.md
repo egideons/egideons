@@ -26,17 +26,12 @@
 <table>
   <thead>
     <tr>
-      <th>Frontend Development</th>
-      <th>Backend Development</th>
+      <th>Frontend</th>
+      <th>Backend</th>
       <th>Design</th>
     </tr>
    </thead>
    <tbody>
-     <tr>
-       <td>Dart</td>
-       <td>text1.2</td>
-       <td>text1.3</td>
-     </tr>
      <tr>
        <td>HTML5</td>
        <td>text2.2</td>
@@ -46,6 +41,11 @@
        <td>CSS3</td>
        <td>text3.2</td>
        <td>text3.3</td>
+     <tr>
+       <td>Dart</td>
+       <td>text1.2</td>
+       <td>text1.3</td>
+     </tr>
      </tr>
      <tr>
        <td>Javacript</td>
