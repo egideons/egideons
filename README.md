@@ -5,10 +5,46 @@
 </picture>
 
 # Hi there 👋
+
 - My Name is Chukwuoma Gideon Chimemerie 😎
 - I am a Flutter Developer
 - 🔭 I’m currently working on a Flutter project for [Edura](https://github.com/Edura-ng)
 - 👯 I’m looking to collaborate on Flutter projects
 - 💬 Ask me about anything
 - 📫 Contact me through my [Email](mailto:egideonchuks@gmail.com)
-- ⚡ Fun fact: I am a Christian.....Not a fun fact but a fact. 
+- ⚡ Fact: I am a Christian
+
+<!-- List of my skills -->
+## My Skills
+
+<table>
+  <thead>
+    <tr>
+      <th>Frontend Development</th>
+      <th>Backend Development</th>
+      <th>Design</th>
+    </tr>
+   </thead>
+   <tbody>
+     <tr>
+       <td>Dart</td>
+       <td>text1.2</td>
+       <td>text1.3</td>
+     </tr>
+     <tr>
+       <td>HTML5</td>
+       <td>text2.2</td>
+       <td>text2.3</td>
+     </tr>
+     <tr>
+       <td>CSS3</td>
+       <td>text3.2</td>
+       <td>text3.3</td>
+     </tr>
+     <tr>
+       <td>Javacript</td>
+       <td>text3.2</td>
+       <td>text3.3</td>
+     </tr>
+  </tbody>
+</table>
