@@ -5,16 +5,22 @@
 </picture>
 
 # Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Gideon-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gideon-chukwuoma-019203235/)](https://www.linkedin.com/in/gideon-chukwuoma-019203235/) [![Twitter Badge](https://img.shields.io/badge/-@egideons-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/egideonchuks)](https://mobile.twitter.com/egideonchuks) [![My Badge](https://img.shields.io/badge/-Gideon.Chukwuoma.Chimemerie-green?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://portfolio-website-amber-nu.vercel.app/)](https://portfolio-website-amber-nu.vercel.app/)
+
+
+## About me
 
 - My Name is Chukwuoma Gideon Chimemerie 😎
 - I am a Flutter Developer
 - 🔭 I’m currently working on a Flutter project for [Edura](https://github.com/Edura-ng)
 - 👯 I’m looking to collaborate on Flutter projects
 - 💬 Ask me about anything
-- 📫 Contact me through my [Email](mailto:egideonchuks@gmail.com)
+- 📫 You can reach me [here](mailto:egideonchuks@gmail.com)
 - ⚡ Fact: I am a Christian
+- 🌍 I am from Nigeria
 
 <!-- List of my skills -->
+
 ## My Skills
 
 <table>
@@ -48,3 +54,7 @@
      </tr>
   </tbody>
 </table>
+
+
+
+---
