@@ -62,8 +62,6 @@
        ~ Teamwork
 
 ---
-[![Gideon's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=egideons&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/egideons)
-[![Gideon's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=egideons&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/egideons)
 
 <picture>
   <source
