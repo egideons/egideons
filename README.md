@@ -5,8 +5,8 @@
 </picture>
 
 # Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Gideon-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gideon-chukwuoma-019203235/)](https://www.linkedin.com/in/gideon-chukwuoma-019203235/) [![Twitter Badge](https://img.shields.io/badge/-@egideons-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/egideonchuks)](https://mobile.twitter.com/egideonchuks) [![My Badge](https://img.shields.io/badge/-Gideon.Chukwuoma.Chimemerie-green?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://portfolio-website-amber-nu.vercel.app/)](https://portfolio-website-amber-nu.vercel.app/)
 
+[![Linkedin Badge](https://img.shields.io/badge/-Gideon-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gideon-chukwuoma-019203235/)](https://www.linkedin.com/in/gideon-chukwuoma-019203235/) [![Twitter Badge](https://img.shields.io/badge/-@egideonchuks-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/egideonchuks)](https://mobile.twitter.com/egideonchuks) [![My Badge](https://img.shields.io/badge/-Gideon.Chukwuoma.Chimemerie-green?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://portfolio-website-amber-nu.vercel.app/)](https://portfolio-website-amber-nu.vercel.app/)
 
 ## About me
 
@@ -34,27 +34,45 @@
    <tbody>
      <tr>
        <td>HTML5</td>
-       <td>text2.2</td>
-       <td>text2.3</td>
+       <td>Firebase</td>
+       <td>Canva</td>
      </tr>
      <tr>
        <td>CSS3</td>
-       <td>text3.2</td>
-       <td>text3.3</td>
+       <td>PHP</td>
+       <td>Photoshop</td>
      <tr>
        <td>Dart</td>
-       <td>text1.2</td>
-       <td>text1.3</td>
+       <td>MySQL</td>
+       <td></td>
      </tr>
      </tr>
      <tr>
        <td>Javacript</td>
-       <td>text3.2</td>
-       <td>text3.3</td>
+       <td></td>
+       <td></td>
      </tr>
   </tbody>
 </table>
 
+- Other skill(s) and qualities:
 
+       ~ Bootstrapcss
+       ~ Communication
+       ~ Teamwork
 
 ---
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=egideons&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/egideons)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=egideons&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=egideons&show_icons=true&theme=transparent"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+<img src="https://github-readme-stats.vercel.app/api?username=egideons&show_icons=true"/>
+</picture>
