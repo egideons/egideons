@@ -79,7 +79,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egideons&layout=compact&theme=transparent&langs_count=8)](https://github.com/egideons)
 
-[![Gideon's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=egideons)](https://github.com/egideons)
+[![Gideon's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=egideons&theme=transparent)](https://github.com/egideons)
 
 <!-- [![wakatime](https://wakatime.com/badge/user/90acafa5-8b31-4fad-9c88-c6780ccb35cf.svg?style=for-the-badge)](https://wakatime.com/@90acafa5-8b31-4fad-9c88-c6780ccb35cf) -->
 
