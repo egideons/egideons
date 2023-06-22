@@ -63,7 +63,7 @@
        ~ Leadership Development
        ~ Strategy 
        ~ innovation 
-       ~ Problem-Solvingg 
+       ~ Problem-Solving
 
 ---
 
