@@ -12,10 +12,10 @@
 
 - My Name is Chukwuoma Gideon Chimemerie 😎
 - I am a Flutter Developer
-- 🔭 I’m currently working on a Flutter project for [Edura](https://github.com/Edura-ng)
-- 👯 I’m looking to collaborate on Flutter projects
+- 🔭 I’m currently working on a Flutter project for [Edura](https://github.com/Edura-ng) and [BOMACH Group of Company](https://github.com/bomach-group-company)
+- 👯 I’m looking to collaborate on more flutter projects
 - 💬 Ask me about anything
-- 📫 You can reach me [here](mailto:egideonchuks@gmail.com)
+- 📫 You can reach me [here](mailto:egideonchuks@gmail.com) or [Discord](discordapp.com/users/751980182981836810)
 - ⚡ Fact: I am a Christian
 - 🌍 I am from Nigeria
 
