@@ -33,7 +33,7 @@
    </thead>
    <tbody>
      <tr>
-       <td>HTML5</td>
+       <td>Dart</td>
        <td>Firebase</td>
        <td>Canva</td>
      </tr>
@@ -42,7 +42,7 @@
        <td>PHP</td>
        <td>Photoshop</td>
      <tr>
-       <td>Dart</td>
+       <td>HTML5</td>
        <td>MySQL</td>
        <td></td>
      </tr>
