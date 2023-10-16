@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on Flutter projects for [Edura](https://github.com/Edura-ng) and [BOMACH Group of Company](https://github.com/bomach-group-company)
 - 👯 I’m looking to collaborate on more Flutter projects
 - 💬 Ask me about anything
-- 📫 You can reach me [here](mailto:egideonchuks@gmail.com) or [Discord](discordapp.com/users/751980182981836810)
+- 📫 You can reach me [here](mailto:egideonchuks@gmail.com) or [on Discord](discordapp.com/users/751980182981836810)
 - ⚡ Fact: I am a Christian
 - 🌍 I am from Nigeria
 
@@ -81,7 +81,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=egideons&show_icons=true"/>
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egideons&layout=compact&theme=transparent&langs_count=8)](https://github.com/egideons)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egideons&layout=compact&theme=transparent&langs_count=6)](https://github.com/egideons)
 
 [![wakatime](https://wakatime.com/badge/user/90acafa5-8b31-4fad-9c88-c6780ccb35cf.svg?style=for-the-badge)](https://wakatime.com/@90acafa5-8b31-4fad-9c88-c6780ccb35cf)
 
