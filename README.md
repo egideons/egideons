@@ -10,14 +10,14 @@
 
 ## About me
 
-- My Name is Chukwuoma Gideon Chimemerie 😎
-- I am a Flutter Developer
-- 🔭 Companies Flutter projects I have worked on [Edura](https://github.com/Edura-ng) and [BOMACH Group of Company](https://github.com/bomach-group-company)
-- 👯 I’m looking to collaborate on more Flutter projects
-- 💬 Ask me about anything
-- 📫 You can reach me [here](mailto:egideonchuks@gmail.com) or [on Discord](discordapp.com/users/751980182981836810)
-- ⚡ Fact: I am a Christian
-- 🌍 I am from Nigeria
+- My Name is Chukwuoma Gideon Chimemerie 😎.
+- I am a Mobile Developer (Flutter/Dart).
+- 🔭 Flutter projects I have worked on for [Edura](https://github.com/Edura-ng) and [BOMACH Group of Company](https://github.com/bomach-group-company)
+- 👯 I’m looking to collaborate on more Flutter projects.
+- 💬 Ask me about anything.
+- 📫 You can reach me [here](mailto:egideonchuks@gmail.com) or [on Discord](discordapp.com/users/751980182981836810).
+- ⚡ Fact: I am a Christian.
+- 🌍 I am from Nigeria.
 
 <!-- List of my skills -->
 
