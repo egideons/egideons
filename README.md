@@ -49,7 +49,7 @@
      </tr>
      <tr>
        <td>Javacript</td>
-       <td>Python Django</td>
+       <td></td>
        <td></td>
      </tr>
   </tbody>
