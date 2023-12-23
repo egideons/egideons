@@ -6,7 +6,7 @@
 
 # Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gideon-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gideon-chukwuoma-019203235/)](https://www.linkedin.com/in/gideon-chukwuoma-019203235/) [![Twitter Badge](https://img.shields.io/badge/-@egideonchuks-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/egideonchuks)](https://mobile.twitter.com/egideonchuks) [![My Badge](https://img.shields.io/badge/-Gideon.Chukwuoma.Chimemerie-green?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://gideonchukwuoma.vercel.app/)](https://gideonchukwuoma.vercel.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-Gideon-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gideonchukwuoma/)](https://www.linkedin.com/in/gideonchukwuoma/) [![Twitter Badge](https://img.shields.io/badge/-@egideonchuks-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/egideonchuks)](https://mobile.twitter.com/egideonchuks) [![My Badge](https://img.shields.io/badge/-Gideon.Chukwuoma.Chimemerie-green?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://gideonchukwuoma.vercel.app/)](https://gideonchukwuoma.vercel.app/)
 
 ## About me
 
