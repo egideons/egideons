@@ -10,7 +10,8 @@
          width="45" /> I'm Gideon Chukwuoma!
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=egideons&label=Profile views&color=blue&style=plastic" alt="egideons" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=egideons&label=Views&color=blue&style=plastic" alt="egideons" /> </p>
+
 <a href="https://github.com/egideons">
   <img align="left" alt="Gideon's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
