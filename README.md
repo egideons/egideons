@@ -127,13 +127,15 @@
 <img src="https://github-readme-stats.vercel.app/api?username=egideons&show_icons=true"/>
 </picture>
 
+<!-- Streak Stats -->
+
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=egideons&show_icons=true&theme=transparent&include_all_commits=false&custom_title=My%20GitHub%20Stats"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=egideons&show_icons=true&theme=transparent&include_all_commits=true&custom_title=My%20GitHub%20Stats"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=egideons&show_icons=true&theme=transparent&include_all_commits=false&custom_title=My%20GitHub%20Stats"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=egideons&show_icons=true&theme=transparent&include_all_commits=true&custom_title=My%20GitHub%20Stats"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=egideons&show_icons=true"/>
