@@ -27,7 +27,7 @@
 ## 👤 About me
 
 - My Name is Chukwuoma Gideon Chimemerie.
-- 💻 I am a Mobile Developer (Flutter/Dart).
+- 💻 I am a Mid-Senior Mobile Developer (Flutter/Dart) with more than 4 Years of Experience.
 - 🔭 I am currently working on projects for [Edura](https://github.com/Edura-ng), [BOMACH Group of Company](https://github.com/bomach-group-company) and [Webxiel.io](https://github.com/webxielio)
 - 👯 I’m looking to collaborate on more Flutter projects.
 - 💬 Ask me about anything.
