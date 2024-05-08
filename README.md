@@ -70,7 +70,7 @@
      </tr>
      </tr>
      <tr>
-       <td>Javacript</td>
+       <td>JavaScript</td>
        <td>JSON</td>
        <td></td>
      </tr>
