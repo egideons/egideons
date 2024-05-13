@@ -38,7 +38,7 @@
 <!-- Social handles -->
 
 [![Twitter: egideonchuks](https://img.shields.io/twitter/follow/egideonchuks?style=social)](https://twitter.com/egideonchuks)
-[![Linkedin: gideonchukwuoma](https://img.shields.io/badge/-gideonchukwuoma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/gideonchukwuoma/)](linkedin.com/in/gideonchukwuoma/)
+[![Linkedin: egideons](https://img.shields.io/badge/-egideons-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/egideons/)](linkedin.com/in/egideons/)
 [![GitHub egideons](https://img.shields.io/github/followers/egideons?label=follow&style=social)](https://github.com/egideons)
 
 <!-- List of my skills -->
