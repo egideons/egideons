@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egideons&label=Views&color=blue&style=plastic" alt="My profile views" /> </p>
 
-<a href="https://github.com/egideons">
+<!-- <a href="https://github.com/egideons">
   <img align="left" alt="Gideon's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://twitter.com/egideonchuks">
@@ -20,9 +20,11 @@
 </a>
 <a href="https://linkedin.com/in/egideons">
   <img align="left" alt="Gideon's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a> -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gideon-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gideon-chukwuoma-019203235/)](https://www.linkedin.com/in/gideon-chukwuoma-019203235/) [![Twitter Badge](https://img.shields.io/badge/-@egideonchuks-black?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/egideonchuks)](https://mobile.twitter.com/egideonchuks) [![My Badge](https://img.shields.io/badge/-Gideon.Chukwuoma.Chimemerie-green?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://gideonchukwuoma.vercel.app/)](https://gideonchukwuoma.vercel.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-Gideon-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/egideons)](https://www.linkedin.com/in/egideons/)
+[![Twitter Badge](https://img.shields.io/badge/-@egideonchuks-black?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/egideonchuks)](https://mobile.twitter.com/egideonchuks)
+[![My Badge](https://img.shields.io/badge/-Gideon.Chukwuoma.Chimemerie-green?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://linktr.ee/egideons)](https://linktr.ee/egideons/)
 
 ## 👤 About me
 
