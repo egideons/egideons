@@ -33,7 +33,7 @@
 - 🔭 I am currently working on projects for [Edura](https://github.com/Edura-ng), [BOMACH Group of Company](https://bomachgroup.com) and [Webxiel.io](https://webxiel.com)
 - 👯 I’m looking to collaborate on more Flutter projects.
 - 💬 Ask me about anything.
-- 📫 You can reach me by [Mail](mailto:egideonchuks@gmail.com) or [on Discord](discordapp.com/users/751980182981836810).
+- 📫 You can reach me by [Mail](mailto:gideon.dart@gmail.com).
 - ⚡ Fact: I am a Christian.
 - 🌍 I am from Nigeria.
 
