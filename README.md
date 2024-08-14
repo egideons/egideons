@@ -30,9 +30,7 @@
 
 - My Name is Chukwuoma Gideon Chimemerie.
 - 💻 I am a Mid-Senior Mobile Developer (Flutter/Dart) with over 4 Years of Experience.
-- 🔭 I have worked on projects for [Edura](https://github.com/edura-labs), [Teranium co](https://teranium.co), [Webxiel.io](https://webxiel.com), and  [BOMACH Group of Company](https://bomachgroup.com),
-- 👯 I’m looking to collaborate on more Flutter projects.
-- 💬 Ask me about anything.
+- 🔭 I have worked on projects for several companies like [Teranium co](https://teranium.co), [Webxiel.io](https://webxiel.com), and  [BOMACH Group of Company](https://bomachgroup.com).
 - 📫 You can reach me by [Mail](mailto:gideon.dart@gmail.com).
 - ⚡ Fact: I am a Christian.
 - 🌍 I am from Nigeria.
@@ -45,46 +43,7 @@
 
 <!-- List of my skills -->
 
-## ⭐️ My Skills
-
-<table>
-  <thead>
-    <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-      <th>Design</th>
-    </tr>
-   </thead>
-   <tbody>
-     <tr>
-       <td>Dart</td>
-       <td>Firebase</td>
-       <td>Canva</td>
-     </tr>
-     <tr>
-       <td>CSS3</td>
-       <td>PHP</td>
-       <td>Photoshop</td>
-     <tr>
-       <td>HTML5</td>
-       <td>MySQL</td>
-       <td></td>
-     </tr>
-     </tr>
-     <tr>
-       <td>JavaScript</td>
-       <td>JSON</td>
-       <td></td>
-     </tr>
-     <tr>
-       <td>Flutter</td>
-       <td></td>
-       <td></td>
-     </tr>
-  </tbody>
-</table>
-
-- Other skills and qualities:
+## ⭐️ My Skills and Qualities
 
         ~ Communication
         ~ Teamwork
