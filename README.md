@@ -30,10 +30,10 @@
 
 - My Name is Chukwuoma Gideon Chimemerie.
 - 💻 I am a Mid-Senior Mobile Developer (Flutter/Dart) with over 4 Years of Experience.
-- 🔭 I have worked on projects for several companies like [Teranium co](https://teranium.co), [Webxiel.io](https://webxiel.com), and  [BOMACH Group of Company](https://bomachgroup.com).
 - 📫 You can reach me by [Mail](mailto:gideon.dart@gmail.com).
 - ⚡ Fact: I am a Christian.
 - 🌍 I am from Nigeria.
+<!-- - 🔭 I have worked on projects for several companies like [Teranium co](https://teranium.co), [Webxiel.io](https://webxiel.com), and  [BOMACH Group of Company](https://bomachgroup.com). -->
 
 <!-- Social handles -->
 
